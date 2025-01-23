@@ -12,5 +12,5 @@ Una sencilla aplicación de Tres en Raya (Tic-Tac-Toe) construida con **React**.
 ## Instalación
 
 1. **Clona este repositorio** en tu máquina local:
-2.
-3. git clone https://github.com/tu-usuario/tres-en-raya.git
+
+ git clone https://github.com/tu-usuario/tres-en-raya.git
