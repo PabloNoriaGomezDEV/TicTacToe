@@ -1,0 +1,28 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .game-info {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color:#ddf008;
+  }
+
+  .reiniciar{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #101010;
+    color: #ddf008;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .reiniciar:hover {
+    background-color: #781895;
+  }
